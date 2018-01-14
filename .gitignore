@@ -1,0 +1,16 @@
+/ConcurrenceSocket/Concurrence/bin/Debug
+/ConcurrenceSocket/Concurrence/bin/Release
+/ConcurrenceSocket/Concurrence/obj/Debug
+/ConcurrenceSocket/Concurrence/obj/Release
+/ConcurrenceSocket/EasyClient/bin/Debug
+/ConcurrenceSocket/EasyClient/bin/Release
+/ConcurrenceSocket/EasyClient/obj/Debug
+/ConcurrenceSocket/EasyClient/obj/Release
+/ConcurrenceSocket/LogHelper/bin/Debug
+/ConcurrenceSocket/LogHelper/bin/Release
+/ConcurrenceSocket/LogHelper/obj/Debug
+/ConcurrenceSocket/LogHelper/obj/Release
+/ConcurrenceSocket/Concurrence/*.user
+/ConcurrenceSocket/Concurrence/.vs/Concurrence/v14/*.suo
+/ConcurrenceSocket/EasyClient/*.user
+*.user
